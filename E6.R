@@ -1,0 +1,1 @@
+binom.test(1000*0.024,1000,p=0.023,alternative="less")
